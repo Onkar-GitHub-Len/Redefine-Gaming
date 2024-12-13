@@ -111,7 +111,7 @@ const Navbar = () => {
 
             {/* Audio toggle button */}
             <button
-              className="ml-10 flex items-center space-x-0.5"
+              className="ml-10 flex items-center space-x-0.5  p-1"
               onClick={toggleAudioIndicator}
             >
               {/* Hidden audio element */}
